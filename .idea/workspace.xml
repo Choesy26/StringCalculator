@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b15ec6a-aa20-4858-a3dd-a578eee164c8" name="Changes" comment="init: 스터디 개발 환경 구축">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="3b15ec6a-aa20-4858-a3dd-a578eee164c8" name="Changes" comment="init: junit4 설치" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728235102040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init: junit4 설치">
+      <option name="closed" value="true" />
+      <created>1728236044224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728236044224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,21 +218,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: 스터디 개발 환경 구축" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: 스터디 개발 환경 구축" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/StringCalculatorTest.java</url>
-          <line>46</line>
-          <properties class="org.example.StringCalculatorTest" method="testException">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="init: junit4 설치" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: junit4 설치" />
   </component>
 </project>
